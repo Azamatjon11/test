@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 ASGI config for studybud project.
 
@@ -15,7 +15,7 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'studybud.settings')
 
 application = get_asgi_application()
-=======
+
 """
 ASGI config for studybud project.
 
@@ -32,4 +32,4 @@ from django.core.asgi import get_asgi_application
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'studybud.settings')
 
 application = get_asgi_application()
->>>>>>> 8337536e28e1b86747ea61107c34b34506c227a1
+
